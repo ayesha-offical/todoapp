@@ -1,3 +1,6 @@
+#! /usr/bin/env node
+//for file exicution
+//SHABANG 
 import inquirer from "inquirer";
 import chalk from "chalk";
 let todoapp = [];
